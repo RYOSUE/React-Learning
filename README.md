@@ -1,6 +1,6 @@
 # React アプリケーション
 
-このプロジェクトは [Next.js](https://nextjs.org/) と [React](https://react.dev/) を使用して作成されたアプリケーションです。
+このプロジェクトは [Next.js](https://nextjs.org/) と [React](https://react.dev/) を使用して作成された、いいねボタンを押すとカウントアップするだけのアプリケーションです。
 
 ## セットアップ
 
